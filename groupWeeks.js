@@ -89,7 +89,7 @@ function groupWeeks(data) {
       };
   });
 
-  console.log(weekGroup)
+  // console.log(weekGroup)
   return weekGroup
 }
 
